@@ -1,6 +1,6 @@
 {
-  "name": "@segment/isodate-traverse",
-  "version": "1.1.0",
+  "name": "@head.js/analytics.js-isodate-traverse",
+  "version": "1.1.0-1",
   "description": "Traverse an object and convert all ISO strings into Dates.",
   "keywords": [
     "ISO",
@@ -14,16 +14,9 @@
   "scripts": {
     "test": "make test"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/segmentio/isodate-traverse.git"
-  },
+  "repository": "https://github.com/nice-fungal/analytics.js-isodate-traverse",
   "author": "Segment <friends@segment.com>",
   "license": "SEE LICENSE IN LICENSE",
-  "bugs": {
-    "url": "https://github.com/segmentio/isodate-traverse/issues"
-  },
-  "homepage": "https://github.com/segmentio/isodate-traverse#readme",
   "dependencies": {
     "@segment/isodate": "1.0.3",
     "component-type": "1.2.1"
